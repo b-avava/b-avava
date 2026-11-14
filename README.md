@@ -4,15 +4,9 @@ I build software for small businesses: CRMs, the tools around them, and AI that 
 
 ### Now building
 
-<a href="https://github.com/b-avava/scopebot">
-  <img src="https://raw.githubusercontent.com/b-avava/scopebot/main/apps/desktop/assets/img/banner.png" alt="Scope Bot: a chat with an AI employee that reads the calendar and lists free times by specialist" width="100%">
-</a>
-
 **[Scope Bot](https://github.com/b-avava/scopebot)** is an open-source CRM where the work is done by AI employees, and people supervise. Employees answer clients on WhatsApp, Telegram and Instagram, keep contacts and deals up to date, and book appointments. The team sets their limits and approves anything risky. Every business runs it on its own server, with its own model and accounts.
 
 `TypeScript` · `Effect` · `Electron` · `React` · `PostgreSQL`
-
-### Also
 
 **[crm-migrator](https://github.com/b-avava/crm-migrator)** is a CLI for moving a business from cloud Bitrix24 to a self-hosted Bitrix24 portal: it maps IDs and links between the two, and keeps its progress in PostgreSQL so a move can resume. So far it checks both portals, takes inventory and plans the move in dry runs; anything that would change data in Bitrix24 is blocked.
 
